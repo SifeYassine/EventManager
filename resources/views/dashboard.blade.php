@@ -1,5 +1,6 @@
 <x-app-layout>
-    <link rel="stylesheet" href="https://temp.staticsave.com/667b93147dbe5.css">
+    <!-- CSS for modals (public/css/modals.css) -->
+    <link rel="stylesheet" href="{{ asset('css/modals.css') }}">
     
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
